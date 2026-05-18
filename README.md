@@ -7,7 +7,7 @@ Next.js, React, Tailwind, Axios
 
 npm install
 
-### .env.local
+### .env
 NEXT_PUBLIC_API_URL=http://localhost:5000/api
 
 npm run dev
